@@ -1,3 +1,3 @@
-# Expandable TableViewCells
+# Expandable TableView Cells
 
-An app showing an alternative way to expand table cells on tap
+An app showing an alternative way to expand TableView cells on tap
