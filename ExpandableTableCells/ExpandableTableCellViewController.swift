@@ -1,5 +1,5 @@
 //
-//  ExpandableTableCellViewControllerTableViewController.swift
+//  ExpandableTableCellViewController.swift
 //  ExpandableTableCells
 //
 //  Created by Manish Kumar on 2020-02-11.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ExpandableTableCellViewControllerTableViewController: UITableViewController {
+class ExpandableTableCellViewController: UITableViewController {
 
     // MARK: - Table view data source
 
